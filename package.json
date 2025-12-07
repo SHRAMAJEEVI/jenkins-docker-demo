@@ -8,6 +8,6 @@
 
   "scripts":{
      
-    "test": "echo \"No test configured" 
+    "test": "echo \"No test configured\""
   }
 }
